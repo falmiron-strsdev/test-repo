@@ -1,0 +1,16 @@
+{
+  "id": "50227d14-9b62-48aa-94d0-e74063a4dad5",
+  "site_id": null,
+  "repo_url": "git@github.com:falmiron-strsdev/test-repo.git",
+  "base_branch": "main",
+  "work_branch": "job/test-readme-success-3",
+  "title": "Worker success test: update README",
+  "summary": "Open README.md and add one line at the end that says: Worker pipeline success test passed. Make no other changes.",
+  "acceptance_criteria": null,
+  "constraints": null,
+  "assigned_worker": "a08b0f11-fa99-49b3-9a40-09d9b3ae1855",
+  "status": "assigned",
+  "priority": 1,
+  "created_at": "2026-03-09T19:06:40Z",
+  "updated_at": "2026-03-09T19:06:43Z"
+}
