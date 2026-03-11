@@ -1,0 +1,16 @@
+
+# worker: auto-added safety exclusions
+# --- Added by worker safety patch ---
+node_modules/
+.next/
+dist/
+build/
+.env
+.env.local
+.env*.local
+*.node
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
